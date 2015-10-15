@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://speakingbible.github.io/atom.xml" rel="self"/>
+  <link href="http://speakingbible.github.io/"/>
+  <updated>2015-10-15T13:07:26+05:30</updated>
+  <id>http://speakingbible.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tutorial: Create a blog with octopress and host it in github pages]]></title>
+    <link href="http://speakingbible.github.io/blog/2015/10/13/tutorial-create-an-octopress-blog-and-host-it-in-github-pages/"/>
+    <updated>2015-10-13T00:54:21+05:30</updated>
+    <id>http://speakingbible.github.io/blog/2015/10/13/tutorial-create-an-octopress-blog-and-host-it-in-github-pages</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
